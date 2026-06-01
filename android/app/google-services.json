@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1066596804618",
+    "project_id": "skillora-dc024",
+    "storage_bucket": "skillora-dc024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066596804618:android:dc8a0c49772d64333097f3",
+        "android_client_info": {
+          "package_name": "com.simats.skillora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066596804618-enhbm0o1965b076mcec5dkf8na53deg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simats.skillora",
+            "certificate_hash": "b0e23fee363bb9525bff722b4e93d125f8a9692a"
+          }
+        },
+        {
+          "client_id": "1066596804618-vg4l39j27u499ep2jsibsfmatdlldqie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAJ7-NYmjVEdrphXZZ9wbZLrsuEktmOi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066596804618-vg4l39j27u499ep2jsibsfmatdlldqie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
